@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+COUmmmm-Moi je veux faire ça
+=======
+COUmmmm -modification
+
+>>>>>>> mohamed
